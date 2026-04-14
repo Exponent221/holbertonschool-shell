@@ -1,1 +1,1 @@
-Â#Holberton School
+#Holberton School
